@@ -7,7 +7,7 @@
 // }
 
 var jobPaiso = false;
-var savingAmount = 50000;
+var savingAmount = 5;
 if(jobPaiso == true && savingAmount > 200000){
     console.log("abar partri dekhi")
 }
