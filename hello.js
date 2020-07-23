@@ -45,7 +45,7 @@ console.log(number1 + number2);
 var number3 = 0.1;
 var number4 = 0.2;
 var total = (number3+number4);
-total = total.toFixed(1)
+total = total.toFixed(1  )
 console.log(total);
 console.log(typeof number1)
 
